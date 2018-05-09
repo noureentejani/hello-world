@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+All is well in my world!
+Love n prayers for all!
